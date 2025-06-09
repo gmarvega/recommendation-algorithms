@@ -1,0 +1,20 @@
+name: cohhn-pytrch23 # Nuevo nombre para evitar conflictos
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge # Añadir conda-forge puede ayudar con dependencias
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.3.0
+  - torchvision=0.18.0
+  - torchaudio=2.3.0
+  - pytorch-cuda=12.1 # Asegúrate que tu driver NVIDIA sea compatible
+  - numpy>=1.20 # Versión compatible con Python 3.10
+  - scipy=1.10.1
+  - pandas=1.5.3
+  - tqdm=4.66.1
+  - pip
+  - pip:
+      - ipython>=8.10.0
+      - matplotlib>=3.7.1

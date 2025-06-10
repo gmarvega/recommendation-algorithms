@@ -1,0 +1,740 @@
+numeric_categoryID,original_categoryID
+1,Chili Peppers
+2,Maple Syrup
+3,Cashews
+4,Oatmeal
+5,Sprinkles
+6,Icing Decorations
+7,Sunflower Seeds
+8,Chewing & Bubble Gum
+9,Flours & Meals
+10,Potato
+11,Ground Coffee
+12,Tea Samplers
+13,Chili Mix
+14,Snack Gifts
+15,Single-Serve Capsules & Pods
+16,Licorice
+17,Caramels
+18,Pork Rinds
+19,Flavored Water
+20,Green
+21,Stevia
+22,Palm Sugar
+23,Coconut
+24,Pie & Pastry Fillings
+25,Flavor Syrups
+26,Chocolate
+27,Ginger Candy
+28,Sandwich Spreads
+29,Butter
+30,Gummy Candy
+31,Candy & Chocolate Bars
+32,Cooking & Baking
+33,Food Coloring
+34,Peanuts
+35,Chili
+36,Fruit Juice
+37,Honey
+38,High Protein
+39,Meat Seasoning
+40,Chocolate Truffles
+41,Cocoa
+42,Chicken
+43,Hard Candy
+44,Walnuts
+45,Jerky & Dried Meats
+46,Energy Drinks
+47,Herbal
+48,Beans
+49,Peanut Butter
+50,Flax Seed
+51,Suckers & Lollipops
+52,"Jams, Jellies & Preserves"
+53,Roasted Coffee Beans
+54,Apple Cider
+55,Soft Drink Mixes
+56,Beverages
+57,Oolong
+58,Turmeric
+59,Candy & Chocolate Assortments
+60,Glitter
+61,Pasta & Noodle Dishes
+62,Sour Candy
+63,Mints
+64,Nut Bars
+65,Cereal
+66,Extracts & Flavoring
+67,Thickeners
+68,Powdered
+69,Assortments & Samplers
+70,Olive
+71,Cupcake Toppers
+72,Bitters
+73,Single Herbs & Spices
+74,Potatoes & Yams
+75,Cheese
+76,Beets
+77,Snails
+78,Orchids
+79,Jelly Beans
+80,Quinoa
+81,Carob
+82,Flax Seeds
+83,Fruit & Nut Gifts
+84,Sandwich
+85,Simple Syrup
+86,Wafers
+87,Tea
+88,Unroasted Coffee Beans
+89,Fruit
+90,Candy Canes
+91,Cake Toppers
+92,Cold-Brew Coffee & Concentrate
+93,Seasoned Coatings
+94,Chia Seeds
+95,Black
+96,Sea Salt
+97,Couscous
+98,Energy & Nutritional
+99,Fortune
+100,Xylitol
+101,Coconut Sauce
+102,Shortening
+103,Chai
+104,Matcha
+105,Biscuits
+106,"Herbs, Spices & Seasonings"
+107,Unpopped
+108,Instant Coffee
+109,Sugars
+110,Tuna Fish
+111,Refried Beans
+112,Vegetable Juice
+113,Vegetable Soups
+114,Salmon
+115,Biscotti
+116,"Meat, Poultry & Seafood"
+117,Corn
+118,Meal Replacement Drinks
+119,Nut & Seed Butters
+120,Pumpkin Seeds
+121,Breads
+122,Chili Powder
+123,Barbecue Seasoning
+124,Wheat Flours & Meals
+125,Diced
+126,Coconut Water
+127,Almonds
+128,Candy & Chocolate Gifts
+129,Protein Drinks
+130,Seaweed Snacks
+131,Asian
+132,Poppy Seed
+133,Taffy
+134,Brittle
+135,Soy
+136,Marshmallows
+137,Candy & Chocolate
+138,Coconut Flakes
+139,Cookies
+140,Sesame Seed
+141,Bamboo
+142,Bubble Tea Tapioca Pearls
+143,House Plants
+144,Bonsai
+145,Candied & Chocolate-coated Nuts
+146,Lilies
+147,Mixed Bouquets
+148,Sports Drinks
+149,Garlic
+150,Anise Seeds
+151,Candied & Chocolate-covered Snacks
+152,Animal
+153,Fruit Snacks
+154,Active Dry Yeasts
+155,Lasagna
+156,Graham Crackers
+157,Mineral Water
+158,Pita
+159,Dried Banana Chips
+160,Cold Cereals
+161,Mexican Dishes
+162,Fruit & Nut
+163,Frostings & Icings
+164,Chips & Crisps
+165,Cole Slaw Dressing
+166,Pickle Relishes
+167,Dill Pickles
+168,Soft Drinks
+169,Mexican Seasoning
+170,Italian Seasoning
+171,Gourmet Rubs
+172,Miso Soups
+173,Snack & Trail Mixes
+174,Powdered Cheese
+175,Ketchup
+176,Seasoned Salt
+177,Almond Butter
+178,Gelatin
+179,Miso
+180,Chocolate-coated Espresso Beans
+181,Granola
+182,Avocado
+183,Lentils
+184,Baked Beans
+185,Split Pea Soups
+186,Basmati
+187,Bow-Tie
+188,Barbecue
+189,Caramel
+190,Party Mix
+191,Dry Soup Mixes
+192,Snack Foods
+193,Oat Bran
+194,Chile Paste
+195,Curry Sauce
+196,Teriyaki Sauce
+197,Hot Sauce
+198,Dried Fruits
+199,Cocktail Mixers
+200,Rice Flour
+201,Fusilli
+202,Fettuccine
+203,Dried Dates
+204,Balsamic
+205,Almond
+206,Raisins
+207,Macadamia Nuts
+208,Fruits
+209,Thousand Island
+210,Pancakes & Waffles
+211,Crackers
+212,Fudge
+213,Horseradish
+214,Mayonnaise
+215,Flatbread
+216,Cakes
+217,Salsas
+218,Dijon Mustard
+219,Thyme
+220,"Syrups, Sugars & Sweeteners"
+221,Allspice
+222,Yellow Mustard
+223,Popped
+224,Microwave
+225,Salt & Salt Substitutes
+226,Cajun Seasoning
+227,Asian Dishes
+228,Soy Sauce
+229,Grains & Rice
+230,Dried Berries
+231,Fresh Fruits
+232,Coffee Substitutes
+233,Curry Powder
+234,Fruit Leather
+235,Chili Sauce
+236,Nut Clusters
+237,Pepper & Peppercorns
+238,Pectin
+239,Water
+240,Applesauce
+241,Oils
+242,Seasoning Mixes
+243,Ginger
+244,Brazil Nuts
+245,Mixed Nuts
+246,Juices
+247,Agave Nectar & Syrup
+248,Stir-Fry Sauce
+249,Sausage
+250,Dried Prunes
+251,Sweet Pickles
+252,Barley Flour
+253,Penne
+254,Sesame
+255,Marinara
+256,Pretzels
+257,Vegetables
+258,Italian
+259,"Coffee, Tea & Cocoa"
+260,Chocolate & Hazelnut Spreads
+261,Nuts & Seeds
+262,Dried Fruit & Raisins
+263,Ghee
+264,Vanilla Beans
+265,Soba
+266,Hot Dogs & Franks
+267,Sausages
+268,Chicken Soups
+269,Coffee
+270,Ground Pepper
+271,Cake & Cupcake Toppers
+272,Nut
+273,Halva
+274,Matzo
+275,Muesli
+276,Flaxseed
+277,Shirataki
+278,Steak Sauce
+279,Fenugreek
+280,French
+281,Worcestershire Sauce
+282,Chocolate Chip
+283,Popcorn
+284,Fresh Baked Cookies
+285,Cheese Assortments & Samplers
+286,Bay Leaf
+287,Cheddar
+288,Peanut
+289,Flavoring Syrup
+290,Sweet Basil Leaf
+291,Breakfast & Cereal Bars
+292,Sauces
+293,Baking Mixes
+294,Chocolates
+295,Rotini
+296,Mackerel
+297,Rice Bowls
+298,Decorating Kits
+299,Coffee Creamers
+300,Sparkling Juice
+301,Dried Cherries
+302,Hemp Seeds
+303,Fruit Butters
+304,Black Beans
+305,Kidney Beans
+306,Garbanzo
+307,Macaroni & Cheese
+308,Packaged Breads
+309,Seasoned Rice
+310,Mixed
+311,Meat & Seafood
+312,Vegetable
+313,Sugar Substitutes
+314,String & Snack
+315,Breadsticks
+316,Iced Tea
+317,Spiced Meat
+318,Peppercorns
+319,Brown
+320,Bars
+321,Flavored Salt
+322,Molasses
+323,Buffalo Wing
+324,Pecans
+325,Chocolate-coated Chips & Pretzels
+326,Garam Masala
+327,Enchiladas
+328,Dried Vegetables
+329,Desserts
+330,Pickled Mixed Vegetables
+331,Vegetable Relishes
+332,Coconut Milk
+333,Beef
+334,Muffins
+335,Rice
+336,Candied & Chocolate-coated Fruit
+337,Tortillas
+338,Artichoke Hearts
+339,Breakfast Bakery
+340,Anchovies
+341,Wasabi Powder
+342,Saffron
+343,Broths
+344,"Baking Chocolates, Carob & Cocoa"
+345,Dried Figs
+346,Dried Pears
+347,Crushed
+348,Sea Vegetables
+349,Marmalades
+350,Chocolate & Fudge
+351,Roses
+352,Non-Dairy Coffee Creamers
+353,Popsicles & Juice Bars
+354,Dried Seaweed & Nori
+355,White
+356,Water Flavoring Drops
+357,Tulips
+358,Sardines
+359,Dried Peaches
+360,Cinnamon
+361,Cumin
+362,Coriander
+363,Celery Seed
+364,Jelly Beans & Gummy Candy
+365,Bakery & Dessert Gifts
+366,"Herb, Spice & Seasoning Gifts"
+367,Beer Mustard
+368,Parmesan
+369,Spaghetti
+370,Gravies
+371,Powdered Drink Mixes
+372,Wheat
+373,Cereals
+374,"Jam, Jelly & Sweet Spread Gifts"
+375,Pudding
+376,Coarse Salt
+377,Pizza
+378,Fennel Seed
+379,Onion
+380,Shrimp & Prawns
+381,Pepperoni
+382,Meat & Seafood Gifts
+383,Dried Apricots
+384,Adobo Seasoning
+385,Bouillon
+386,Salad Dressings
+387,Vinegars
+388,Seafood Seasoning
+389,Cream of Tartar
+390,Tortellini
+391,Rock Salt
+392,Puffed Snacks
+393,Salt Substitutes
+394,Mustard
+395,Noodles
+396,Tomato Paste
+397,Assortments & Variety Gifts
+398,Wagashi
+399,Truffle
+400,Kalamata
+401,"Jams, Jellies & Sweet Spreads"
+402,Snack Cakes
+403,Saltines
+404,Grits
+405,Breakfast
+406,Fish Sauce
+407,"Sauce, Gravy & Marinade Gifts"
+408,Rooibos
+409,Shiitake
+410,Mixed Spices & Seasonings
+411,Pineapple
+412,Paprika
+413,Bottled & Canned Coffee Drinks
+414,Onions
+415,Noodle Soups
+416,Dried Mixed Fruits
+417,Asian Noodle Soups
+418,Flavored Milk
+419,Coffee & Tea Gifts
+420,Food & Beverage Gifts
+421,Peppermint Leaf
+422,Fresh Vegetables
+423,Soy Milk
+424,Adobo Sauce
+425,Traditional & International Sweets
+426,Tempura
+427,Asafetida
+428,Capellini
+429,Oregano
+430,Jambalaya
+431,Pickles
+432,Breads & Bakery
+433,Indian Dishes
+434,Stuffed Olives
+435,"Doughs, Shells & Crusts"
+436,Dried Mangoes
+437,Tuna
+438,Sparkling Water
+439,Oranges
+440,Pickled Eggs
+441,Mangos
+442,Parsley
+443,Tortilla
+444,Popcorn Salt
+445,Potato Side Dishes
+446,Edible Printer Ink & Paper
+447,Wild
+448,Sumac
+449,Indian Seasoning
+450,Toffee
+451,Fresh Bakery Breads
+452,Processed Cheese
+453,Cherries
+454,Chips
+455,Risotto
+456,"Canned, Jarred & Packaged Foods"
+457,Oat Flour
+458,Bacon
+459,Snickerdoodles
+460,Grapeseed
+461,Porcini
+462,Condiments & Salad Dressings
+463,Bonito Flakes
+464,Cardamom Seed
+465,Leaveners & Yeasts
+466,Hamburger Buns
+467,Tenderloin & Filet Mignon
+468,Asparagus
+469,Lemonade
+470,Nutmeg
+471,Poultry Seasoning
+472,Dips & Spreads
+473,Pistachios
+474,Chipotle
+475,Pizza Crusts
+476,Savory
+477,Kosher Salt
+478,Caesar
+479,Condensed
+480,Sports Drinking Water
+481,Pasta & Noodles
+482,"Brittle, Caramel & Toffee"
+483,Ciders
+484,Oysters
+485,Oyster
+486,Glazes & Demi-Glaces
+487,Caviars & Roes
+488,Buckwheat
+489,Provolone
+490,Chinese Five Spice
+491,Havarti
+492,Salami
+493,Chowders
+494,Walnut
+495,Millet
+496,Pappardelle
+497,Fajitas
+498,Shortbread
+499,Green Chilis
+500,Stuffing Side Dishes
+501,Egg
+502,Cashew Butter
+503,Vinaigrette
+504,Salad Toppings
+505,Greek Seasoning
+506,Canned & Jarred Fish
+507,Almond Milk
+508,Mulling Spice
+509,Wasabi
+510,Brownies
+511,Wheat Berries
+512,Clams
+513,Baking Powder
+514,Herring
+515,Tropical & Exotic Fruit
+516,"Soups, Stocks & Broths"
+517,Mushrooms
+518,Sweet Peppers
+519,Spanish & Mexican
+520,German Mustard
+521,Ham
+522,Dried Apples
+523,Smoothies
+524,Fruit Bars
+525,Snack Cakes & Pastries
+526,Stews
+527,Baking Soda
+528,Kidney
+529,"Bottled Beverages, Water & Drink Mixes"
+530,Ice Cream
+531,Dessert Syrups & Sauces
+532,Wasabi Peas
+533,Brie
+534,Turkey
+535,Consomm
+536,Rice Milk
+537,Daiquiri
+538,Paella
+539,Foie Gras & Pts
+540,Fresh Cut Flowers
+541,Dusting Powders
+542,Peas
+543,Cream Cheese
+544,Brown Mustard
+545,Rye
+546,Pizzelles
+547,Stuffed Grape Leaves
+548,Honey Mustard
+549,Waffles
+550,Pilaf
+551,"Dairy, Cheese & Eggs"
+552,Split
+553,Kefir
+554,Papayas
+555,Sweet & Sour Sauce
+556,White Wine
+557,Toaster Pastries
+558,Pasta
+559,Guacamole
+560,Snack Pies
+561,Sandwich Breads
+562,Beans & Peas
+563,Tomato Soups
+564,Hard Candy & Lollipops
+565,Fresh Fish
+566,Udon
+567,Cloves
+568,Red Wine
+569,Gnocchi
+570,Dairy Milk
+571,Ginger Snaps
+572,Beef Soups
+573,Fruit Cups
+574,Whole Grain Mustard
+575,Packaged Meals & Side Dishes
+576,Pinto
+577,Marzipan & Almond Paste
+578,Caraway Seed
+579,Ranch
+580,Packaged Produce
+581,Sage Leaf
+582,Meat Substitutes
+583,Mushrooms & Truffles
+584,Stocks
+585,Mozzarella
+586,Swiss
+587,Chorizo
+588,Peanut Sauce
+589,Panko
+590,Tomatoes
+591,Mace
+592,Rosemary
+593,Non-Stick Cooking Oil Sprays
+594,Breasts
+595,Dried Pineapples
+596,Dill
+597,Jasmine
+598,Chutneys
+599,Gouda
+600,Butter & Margarine
+601,Meringues
+602,Black Truffles
+603,Hazelnuts
+604,Apricots
+605,Taco Sauce
+606,Rice Dishes
+607,Meats
+608,Crabmeat
+609,Vegetarian Proteins
+610,Table Salt
+611,Prepared Foods
+612,Cilantro Flakes
+613,Orzo
+614,Ladyfingers
+615,Olives
+616,Sunflower
+617,Soybean
+618,Yogurt Starter Cultures
+619,Linguine
+620,Summer
+621,Whole Wheat
+622,Jalapenos
+623,Cheese & Charcuterie Gifts
+624,Sugar
+625,Bananas & Plantains
+626,Malt
+627,Pears
+628,Lard
+629,Wild Game & Fowl
+630,Peeled
+631,Marjoram
+632,Ice Cream Cones & Toppings
+633,Sundried Tomatoes
+634,Breadcrumbs & Seasoned Coatings
+635,Cayenne
+636,Margarita
+637,Manchego
+638,Green Beans
+639,Pesto
+640,English Mustard
+641,Canola
+642,Breadcrumbs
+643,Capers
+644,Bisques
+645,Crab
+646,Pie Crusts
+647,"Meatballs, Chunks & Crumbles"
+648,Saccharine
+649,Non-Alcoholic Wine
+650,Martini
+651,Bloody Mary
+652,Arborio
+653,Lemons
+654,Tomato Sauce
+655,Peaches
+656,Flavored
+657,Truffles
+658,Water Chestnuts
+659,Fresh Shellfish
+660,Alfredo
+661,Tamales
+662,Condensed & Powdered Milk
+663,Oyster Sauce
+664,Relishes
+665,Pork
+666,Breakfast Foods
+667,Blue Cheese
+668,Tagliatelle
+669,Seltzer Water
+670,Cod
+671,Chinese Star Anise
+672,Cocktail Sauce
+673,Spreads
+674,Enchilada Sauce
+675,Cut & Packaged Vegetables
+676,Bubble Tea Kits
+677,Live Indoor Plants
+678,Fresh Flowers & Live Indoor Plants
+679,Steaks
+680,Bagel Chips
+681,Chives
+682,Smoked & Cured Fish
+683,Carrots
+684,Feta
+685,Meals & Entrees
+686,Whole Grain
+687,Polenta Meal
+688,Pecorino
+689,Antipasto
+690,Frozen
+691,Ice Cream & Novelties
+692,Berries
+693,Seafood
+694,Bell Peppers
+695,Garbanzo Beans
+696,Chvre
+697,Tartar Sauce
+698,Carnations
+699,Figs
+700,Dried Papayas
+701,Barbecue Sauce
+702,Multigrain
+703,Hummus
+704,Taco Shells & Kits
+705,Sloppy Joe Mix
+706,Lobster
+707,Pasta Salads
+708,Lima
+709,Portabellos
+710,Pinto Beans
+711,Appetizers & Snacks
+712,Tarragon
+713,Hearts of Palm
+714,Okra
+715,Processed
+716,Deli
+717,Apples
+718,Lamb
+719,Tonic Water
+720,"Frosting, Icing & Decorations"
+721,Desserts & Toppings
+722,Meatless
+723,Juice
+724,Cornichons
+725,Fresh Pasta & Sauces
+726,Dinner Rolls
+727,American
+728,Safflower
+729,Rigatoni
+730,Bean Salad
+731,Ribeye
+732,Potatoes
+733,Deli-Sliced Meats
+734,Bread & Dough
+735,Fruit Compotes
+736,Fresh Seafood
+737,Cooking Wine
+738,Plum Sauce
+739,Pasta & Sauces
